@@ -32,7 +32,9 @@ The final map includes the following features:
 
 
 ## Technologies
-* Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
+* JavaScript (Leaflet)
+* HTML
+* CSS
 
 
 ## Getting Started
