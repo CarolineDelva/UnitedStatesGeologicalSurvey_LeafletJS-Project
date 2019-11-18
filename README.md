@@ -12,25 +12,18 @@ The purpose of this project is to help the United States Geological Survey (USGS
 
 The final map includes the following features:
 
-1. **Get your data set**
+1. Data collected from the USGS, which provides earthquake data in a number of different formats, updated every 5 minutes.
 
-   ![3-Data](Images/3-Data.png)
+2. An URL of this JSON to pull in the data for the visualization.
 
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
+3. A map using Leaflet that plots all of the earthquakes from the dataset based on their longitude and latitude.
 
-   ![4-JSON](Images/4-JSON.png)
+4. Data markers that reflects the magnitude of the earthquake in their size and color. 
 
-2. **Import & Visualize the Data**
+5. Popups that provide additional information about the earthquake when a marker is clicked.
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+6. A legend that provides context for your map data.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
-
-   * Include popups that provide additional information about the earthquake when a marker is clicked.
-
-   * Create a legend that will provide context for your map data.
-
-   * Your visualization should look something like the map above.
 
 ## Methods Used
 * Data Visualization
@@ -45,6 +38,7 @@ The final map includes the following features:
 ## Getting Started
 
 1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2.  Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
 2. CSVs can be found in the [data](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/tree/master/Pyber/data) in this repository.
 
 3. The Python script is located in the [Pyber](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/blob/master/Pyber/pyber%20script.ipynb) folder.
@@ -55,9 +49,15 @@ The final map includes the following features:
 
 ##Output 
 
+### Data
+
+![4-JSON](Images/4-JSON.png)
+
 ### Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
+
+
 
 To see the map in action, visit the Github page: [USCS Map](https://carolinedelva.github.io/UnitedStatesGeologicalSurvey_LeafletJS-Project/)
 
