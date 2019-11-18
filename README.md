@@ -35,16 +35,17 @@ The final map includes the following features:
 * JavaScript (Leaflet)
 * HTML
 * CSS
-
+* GeoJson
 
 ## Getting Started
 
 1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2.  Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
-2. CSVs can be found in the [data](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/tree/master/Pyber/data) in this repository.
+2. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
+3. Find the JavaScript code in the [js](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/blob/master/static/js/logic3.js) folder.
+4. Find the JavaScript code in the [css](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/tree/master/static/css) folder.
+5. Find the HTML file as [index.html](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/blob/master/index.html)
 
-3. The Python script is located in the [Pyber](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/blob/master/Pyber/pyber%20script.ipynb) folder.
-4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
+6. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/).
 
 
 
