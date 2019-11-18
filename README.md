@@ -43,7 +43,7 @@ The final map includes the following features:
 2. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
 3. Find the JavaScript code in the [js](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/blob/master/static/js/logic3.js) folder.
 4. Find the JavaScript code in the [css](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/tree/master/static/css) folder.
-5. Find the HTML file as [index.html](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/blob/master/index.html)
+5. Find the HTML file as [index.html](https://github.com/CarolineDelva/UnitedStatesGeologicalSurvey_LeafletJS-Project/blob/master/index.html).
 
 6. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -62,7 +62,7 @@ The final map includes the following features:
 
 
 
-To see the map in action, visit the Github page: [USCS Map](https://carolinedelva.github.io/UnitedStatesGeologicalSurvey_LeafletJS-Project/)
+To see the map in action, visit the Github page: [USGS Map](https://carolinedelva.github.io/UnitedStatesGeologicalSurvey_LeafletJS-Project/)
 
 ## Contact
 * [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
