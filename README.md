@@ -12,17 +12,17 @@ The purpose of this project is to help the United States Geological Survey (USGS
 
 The final map includes the following features:
 
-1. Data collected from the USGS, which provides earthquake data in a number of different formats, updated every 5 minutes.
+1. Data collected from the USGS, which provides earthquake data in a number of different formats, updated every 5 minutes
 
-2. An URL of this JSON to pull in the data for the visualization.
+2. An URL of the USGS JSON to pull in the data for the visualization
 
-3. A map using Leaflet that plots all of the earthquakes from the dataset based on their longitude and latitude.
+3. A map using Leaflet that plots all of the earthquakes from the dataset based on their longitude and latitude
 
-4. Data markers that reflects the magnitude of the earthquake in their size and color. 
+4. Data markers that reflects the magnitude of the earthquake in their size and color
 
-5. Popups that provide additional information about the earthquake when a marker is clicked.
+5. Popups that provide additional information about the earthquake when a marker is clicked
 
-6. A legend that provides context for your map data.
+6. A legend that provides context for your map data
 
 
 ## Methods Used
