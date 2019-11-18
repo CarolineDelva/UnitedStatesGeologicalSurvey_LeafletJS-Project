@@ -12,12 +12,6 @@ The purpose of this project is to help the United States Geological Survey (USGS
 
 The final map includes the following features:
 
-### Level 1: Basic Visualization
-
-![2-BasicMap](Images/2-BasicMap.png)
-
-Your first task is to visualize an earthquake data set.
-
 1. **Get your data set**
 
    ![3-Data](Images/3-Data.png)
@@ -37,6 +31,27 @@ Your first task is to visualize an earthquake data set.
    * Create a legend that will provide context for your map data.
 
    * Your visualization should look something like the map above.
+
+## Methods Used
+* Data Visualization
+* Data Collection
+* Mapping
+
+
+## Technologies
+* Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
+
+
+## Getting Started
+
+1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. CSVs can be found in the [data](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/tree/master/Pyber/data) in this repository.
+
+3. The Python script is located in the [Pyber](https://github.com/CarolineDelva/Pyber-Matplotlib-Project/blob/master/Pyber/pyber%20script.ipynb) folder.
+4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
+
+
+
 
 ##Output 
 
